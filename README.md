@@ -1,7 +1,7 @@
 # Guessing utilities
 
 This crate provides various guessing utilities for working with guesses in (0..101) number range.
-Check the [https://docs.rs/guessing_utils/1.0.2/guessing_utils/](documentation) for more.
+Check the [documentation](https://docs.rs/guessing_utils/1.0.2/guessing_utils/) for more.
 
 ## Fully functional example
 
