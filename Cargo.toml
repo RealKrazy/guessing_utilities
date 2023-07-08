@@ -1,6 +1,6 @@
 [package]
 name = "guessing_utils"
-version = "1.0.2"
+version = "1.0.3"
 edition = "2021"
 description = "Various guessing utilities for working with guesses in (0..101) number range."
 license = "MIT"
