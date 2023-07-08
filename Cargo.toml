@@ -1,0 +1,9 @@
+[package]
+name = "guessing_utils"
+version = "1.0.0"
+edition = "2021"
+description = "Various guessing utilities for working with guesses in (0..101) number range."
+license = "MIT"
+
+[dependencies]
+rand = "0.8.3"
