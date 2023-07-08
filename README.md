@@ -1,7 +1,7 @@
 # Guessing utilities
 
 This crate provides various guessing utilities for working with guesses in (0..101) number range.
-Check the documentation for more.
+Check the [https://docs.rs/guessing_utils/1.0.2/guessing_utils/](documentation) for more.
 
 ## Fully functional example
 
@@ -12,7 +12,6 @@ use guessing_utils::Guess;
 use std::io;
 use std::cmp::Ordering;
 
-// fully working "guess the number" app!
 fn main() {
     println!("Guess the number!");
 
